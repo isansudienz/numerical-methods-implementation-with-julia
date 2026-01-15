@@ -1,1 +1,1 @@
-# numerical-methods-implementation-with-julia
+numerical-methods
