@@ -1,0 +1,6 @@
+name = "NumericalMethods"
+uuid = "generate-with-julia"
+authors = ["Isan <ihsananshoruddin2376@email.com>"]
+version = "0.1.0"
+
+[deps]
